@@ -1,6 +1,7 @@
 # Linear Regression Model.
 ## Linear Regression Model based on Student Performance Data Set from UCI Machine Learning Repository.
-
+[Google Colab](https://github.com/kulkarni-harsh/students-grades-linear-regression/blob/main/LinearRegressionModel.ipynb)
+[UCI Repository](https://archive.ics.uci.edu/ml/datasets/Student+Performance)
 
 `Linear Regression`.
 
